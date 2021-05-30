@@ -1,0 +1,4 @@
+﻿  Kurs.cpp
+C:\Users\Руслан\source\repos\Kurs\Kurs\Kurs.cpp(66,28): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Руслан\source\repos\Kurs\Kurs\Kurs.cpp(73,28): warning C4018: <: несоответствие типов со знаком и без знака
+  Kurs.vcxproj -> C:\Users\Руслан\source\repos\Kurs\Debug\Kurs.exe

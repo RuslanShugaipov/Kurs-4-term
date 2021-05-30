@@ -1,0 +1,10 @@
+﻿  KursTest.cpp
+C:\Users\Руслан\source\repos\Kurs\Kurs\EdmondsKarp.cpp(31,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Руслан\source\repos\Kurs\Kurs\EdmondsKarp.cpp(43,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Руслан\source\repos\Kurs\Kurs\EdmondsKarp.cpp(44,30): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Руслан\source\repos\Kurs\Kurs\EdmondsKarp.cpp(46,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Руслан\source\repos\Kurs\KursTest\KursTest.cpp(130,29): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Руслан\source\repos\Kurs\KursTest\KursTest.cpp(137,29): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Руслан\source\repos\Kurs\Kurs\LinkedList.inl(167): warning C4715: LinkedList<unsigned int>::at: значение возвращается не при всех путях выполнения
+     Создается библиотека C:\Users\Руслан\source\repos\Kurs\Debug\KursTest.lib и объект C:\Users\Руслан\source\repos\Kurs\Debug\KursTest.exp
+  KursTest.vcxproj -> C:\Users\Руслан\source\repos\Kurs\Debug\KursTest.dll

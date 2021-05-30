@@ -1,0 +1,15 @@
+S A 39
+S B 10
+S C 23
+A D 25
+B A 81
+B E 61
+B F 15
+C B 20
+D B 18
+D T 44
+E D 16
+E T 53
+F C 33
+F E 71
+F T 95
